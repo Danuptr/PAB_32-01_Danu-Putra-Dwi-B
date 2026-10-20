@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Food App Color Palette -->
+    <color name="food_orange">#FF6B00</color>
+    <color name="food_orange_dark">#E05D00</color>
+    <color name="food_orange_light">#FFF4EC</color>
+    <color name="food_bg">#F8F9FA</color>
+    <color name="food_dark">#1A1A1A</color>
+    <color name="food_gray">#717171</color>
+    <color name="food_light_gray">#EFEFEF</color>
+    <color name="food_green">#27AE60</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="divider">#E2E8F0</color>
+</resources>
